@@ -1,0 +1,1 @@
+open("index.html", 'w', encoding="utf-8").write("<html><head></head><body></body></html>")
